@@ -62,6 +62,70 @@ graph TD
 
 ---
 
+## 📸 Application Interface Showcase
+
+### 📊 Primary Dashboards
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>🔐 Login Interface</b><br/>
+      <img src="Screenshot/login.png" alt="Login Interface" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>📊 Case Analytics Dashboard</b><br/>
+      <img src="Screenshot/dashboard.png" alt="Dashboard Overview" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### ⚖️ Digital Case & Hearing Workspace
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>📅 Today's Hearings Schedule</b><br/>
+      <img src="Screenshot/Screenshot 2026-05-20 134318.png" alt="Hearing Schedule" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <b>📂 Case File Repository</b><br/>
+      <img src="Screenshot/Screenshot 2026-05-20 134334.png" alt="Document Vault" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <b>📝 Hearing Outcome Logging</b><br/>
+      <img src="Screenshot/Screenshot 2026-05-20 134409.png" alt="Hearing Logger" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>👥 User Roles Manager</b><br/>
+      <img src="Screenshot/Screenshot 2026-05-20 134418.png" alt="User Management" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <b>➕ Case Registration</b><br/>
+      <img src="Screenshot/Screenshot 2026-05-20 134429.png" alt="Register Case" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <b>⚖️ Smart Case Priority</b><br/>
+      <img src="Screenshot/Screenshot 2026-06-11 235515.png" alt="Case Priority AI" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Gemini AI Legal Assist Suite
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>💬 Legal Case Q&A Chatbot</b><br/>
+      <img src="Screenshot/Screenshot 2026-06-11 235523.png" alt="Gemini Legal Chatbot" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <b>⚖️ Ruling Inclination Analytics</b><br/>
+      <img src="Screenshot/Screenshot 2026-06-11 235535.png" alt="Gemini Leaning Analysis" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚙️ Configuration & Environment Settings
 
 Create a `.env` file inside the `backend/` directory.
